@@ -1,0 +1,8 @@
+name: KBFix
+version: 1.0
+author: CyberFlame
+main: net.cyberflame.kbfix.KBFix
+commands:
+  setknockback:
+    description: Change the amount of knockback players take
+    aliases: [setkb]
